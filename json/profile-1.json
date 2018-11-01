@@ -14,8 +14,7 @@
     },
     {
       "user_quick_reply": {
-        "text": "Oh, like this? ",
-        "go_to_node_set": ""
+        "text": "Oh, like this?"
       }
     },
     {
@@ -44,7 +43,7 @@
   ],
   "profile-1c": [
     {
-      "bot_text": "Haha. weirdo! Anywayyyy..."
+      "bot_text": "Haha, weirdo! Anywayyyy..."
     }
   ],
   "profile-1d": [
