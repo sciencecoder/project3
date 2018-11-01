@@ -1,0 +1,61 @@
+{
+  "profile-1a": [
+    {
+      "bot_text": "Hey, I’m M. What should I call you?"
+    },
+    {
+      "user_text_reply": "[NAME]"
+    },
+    {
+      "bot_text": "Cool, [NAME]. You’re like the gazillionth person I’ve started chatting with...but it’s not a popularity contest, I swear! ;)"
+    },
+    {
+      "bot_text": "Lemme show you how this works. To start, we’ll keep it simple. I’ll say something to you & you just tap the button."
+    },
+    {
+      "user_quick_reply": {
+        "text": "Oh, like this? ",
+        "go_to_node_set": ""
+      }
+    },
+    {
+      "bot_image": "[ANIMATED YOU ROCK GIF]"
+    },
+    {
+      "bot_text": "Anyway, most people think of me as their planet-saving guru....but not in a “reduce your carbon footprint kinda way”."
+    },
+    {
+      "user_quick_reply": {
+        "text": "Thank God!",
+        "go_to_node_set": "profile-1b"
+      }
+    },
+    {
+      "user_quick_reply": {
+        "text": "Hey, I’m all about reducing my footprint...I don’t even shower!",
+        "go_to_node_set": "profile-1c"
+      }
+    }
+  ],
+  "profile-1b": [
+    {
+      "bot_text": "I know, right!"
+    }
+  ],
+  "profile-1c": [
+    {
+      "bot_text": "Haha. weirdo! Anywayyyy..."
+    }
+  ],
+  "profile-1d": [
+    {
+      "bot_text": "So, yeah, I’m here to help you take power back from big ol’ corporations to actually prevent some really bad stuff that’s gonna happen kinda soon if they keep heating up the planet."
+    },
+    {
+      "user_quick_reply": {
+        "text": "I hear you, let’s show these fools who’s boss.",
+        "go_to_node_set": "company-game-1a"
+      }
+    }
+  ]
+}
